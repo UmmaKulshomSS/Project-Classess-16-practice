@@ -1,0 +1,93 @@
+/* html{
+    scroll-behavior: smooth;
+} */
+.header{
+    background-color: #2992de;
+}
+.header-logo img{
+    width: 200px;
+}
+.primery-menu ul{
+    margin-bottom: 0;
+    text-align: right;
+}
+.primery-menu ul li{
+    display: inline-block;
+    margin-right: -4px;
+}
+.primery-menu ul li a {
+    display: block;
+    color: #fff;
+    padding: 0 30px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 78px;
+    border-right: 1px solid #fff;
+}
+
+/* Banner-Section */
+.banner{
+    background-image: url(https://i.ibb.co/VtB6LRr/banner.png);
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text h2{
+    background-color: #999999;
+    color: #fff;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.banner-text h1{
+    background-color: #7fbdeb;
+    color: #fff;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.about{
+    background-color: #ebf0f1;
+}
+.service{
+    background-color: #f9f9f9;
+}
+.card i{
+    font-size: 30px;
+    margin: 20px 0;
+    background-color: #2a93e1;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 15px 0 15px 0;
+}
+.product{}
+img{
+    max-width: 100%;
+}
+.product-item p{
+    font-size: 17px;
+}
+.product-right ul{
+    padding-left: 0;
+    list-style: none;
+}
+.product-right ul li{
+    background-color: #f7f7f7;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.footer{
+    background-color: #1e2c3b;
+}
+.footer p{
+    margin-bottom: 0;
+}
+.footer a{
+    color: #fff;
+    margin-left: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
